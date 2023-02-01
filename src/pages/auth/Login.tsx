@@ -1,10 +1,9 @@
 import React from "react";
 import { useFonts, Inter_600SemiBold } from '@expo-google-fonts/inter';
-
-import { Text, View } from "react-native";
 import { ButtonAuth } from "../components/Button";
 import { InputAuth } from "../components/Input";
 import { ForgotText, Title, ViewAuth, ViewInputs } from "./style";
+
 
 
 export const Login = () => {
